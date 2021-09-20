@@ -1,4 +1,4 @@
 .moh{ font-size: medium; font-family: 'Courier New', Courier, monospace; }
 .m1, .m2 { font-size: medium; font-family: 'Courier New', Courier, monospace;}
 .m2 { background-color: lightblue;}
-.m2:hover {color:blueviolet;}
+.m2:hover {background-color: white; color:blueviolet;}
