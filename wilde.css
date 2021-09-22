@@ -14,3 +14,7 @@ table {border-style:solid;}
   th, td {text-align: left; padding: 8px; color: brown;}
   
   tr:nth-child(even) {background-color: #f2f2f2;}
+  .moh:hover{
+    text-shadow: 2px 4px 8px red;
+    border: solid 2px green;   
+}
