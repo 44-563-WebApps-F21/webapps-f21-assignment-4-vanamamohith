@@ -41,5 +41,5 @@ ul {
   
   li a:hover {
     color: cornsilk;
-    text-shadow: 5px black;
+    text-shadow: 2px 4px 8px black;
   }
