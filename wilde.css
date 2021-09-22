@@ -9,5 +9,14 @@
 .c5{color:silver;}
 .c6{color:darkolivegreen;}
 .c7{color:brown;}
-table, td, th{border-radius: 1px; border-style: solid;}
-td, th{padding: 10px;}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {background-color: #f2f2f2;}
