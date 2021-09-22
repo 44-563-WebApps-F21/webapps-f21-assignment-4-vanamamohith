@@ -15,5 +15,6 @@ table {border-style:solid;}
   
   tr:nth-child(even) {background-color: #f2f2f2;}
   .moh:hover{
-    text-shadow: 2px 4px 8px blueviolet;   
+    text-shadow: 2px 4px 8px blueviolet;
+    border: #f2f2f2;   
 }
