@@ -11,6 +11,7 @@
 .c7{color:brown;}
 table {
     border-collapse: collapse;
+    border-style: dashed;
   }
   
   th, td {
