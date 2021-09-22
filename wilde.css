@@ -17,4 +17,5 @@ table {border-style:solid;}
   .moh:hover{
     text-shadow: 2px 4px 8px blueviolet;
     border: solid 1px blueviolet;   
+    margin-right: 60%;
 }
