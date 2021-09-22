@@ -9,4 +9,4 @@
 .c5{color:silver;}
 .c6{color:darkolivegreen;}
 .c7{color:brown;}
-table, td, th{border-radius: 1px; border-style: solid;}
+table, td, th{border-radius: 1px; border-style: solid; padding: 2px;}
