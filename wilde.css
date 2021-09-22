@@ -25,7 +25,8 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:skyblue;
-    margin-right: 50%;
+    margin-right: 30%;
+    margin-left: 30%;
   }
   
   li {
