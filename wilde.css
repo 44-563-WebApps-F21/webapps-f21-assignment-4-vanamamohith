@@ -11,6 +11,6 @@
 .c7{color:brown;}
 table {border-collapse: collapse; border-style: dashed;}
   
-  th, td {text-align: left; padding: 8px;}
+  th, td {text-align: left; padding: 8px; color: brown;}
   
   tr:nth-child(even) {background-color: #f2f2f2;}
