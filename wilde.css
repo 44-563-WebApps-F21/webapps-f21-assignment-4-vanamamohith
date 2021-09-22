@@ -9,7 +9,7 @@
 .c5{color:silver;}
 .c6{color:darkolivegreen;}
 .c7{color:brown;}
-table {border-collapse: collapse; border-style: dashed;}
+table {border-style:double;}
   
   th, td {text-align: left; padding: 8px; color: brown;}
   
